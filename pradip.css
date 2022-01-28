@@ -1,0 +1,25 @@
+nav a{
+    text-decoration: none;
+    font: size 60px;
+    color:white;
+    padding: 41px;
+    text-align: right;
+    float: left;
+}
+nav a{
+    color: tomato;
+    background-color: black;
+    overflow: hidden;
+}
+
+nav a:hover{
+    color: blue;
+}
+p {
+    padding: 1px;
+    text-shadow: rgb(255, 12, 12);
+    text-align: left;
+    text-size-adjust: 2px;
+    word-spacing: 10;
+}
+
