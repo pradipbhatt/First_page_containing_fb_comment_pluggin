@@ -2,6 +2,7 @@
 .body{
   background-color: #9dcbe6a0;
   align-items: center;
+  display:inline-flexbox;
 }
 .gallary{
  align-items: center;
@@ -92,6 +93,6 @@ video{
 #fb-comments{
   text-align: center;
   align-items: center;
-  padding-left:3cm;
+  padding-left:2cm;
   padding-right:3cm;
 }
