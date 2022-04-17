@@ -1,43 +1,21 @@
-nav a{
-    text-decoration: none;
-    font: size 70px;
-    color:white;
-    padding: 22px;
-    text-align: right;
-    float: left;
-}
-nav a{
-    color: tomato;
-    background-color: rgb(0, 0, 0);
-    padding:1cm;
-    overflow: hidden;
-}
 
-nav a:hover{
-    color: blue;
-}
 .body{
   background-color: #9dcbe6a0;
   align-items: center;
 }
-
-p {
-    padding: 1px;
-    text-shadow: rgb(255, 12, 12);
-    text-align: left;
-    text-size-adjust: 2px;
-    word-spacing: 10;
+.gallary{
+ align-items: center;
+ padding-left:3cm;
+ padding-right: 3cm;
+ padding-top: -2cm;
 }
   h1 {
     font-size: 23px;
     font-family: cursive;
-
-    background-color: #0232f03c;
+    background-color: #0da4ea00;
     text-shadow: 2px -1px 3px rgb(255, 255, 255);
     text-align: center;
 }
-
-
 .background {
   background-image: url(medias/sky.jpg);
   background-position: right;
@@ -48,7 +26,7 @@ p {
 }
 
 h1:hover{
-    color: rgba(11, 244, 30, 0.748);
+    color: rgba(0, 193, 52, 0.661);
 
 }
       h2 {
@@ -60,15 +38,14 @@ h1:hover{
         text-shadow: rgb(255, 12, 12);
         text-align: left;
         text-size-adjust: 2px;
-        word-spacing:10;
-
-        
+        word-spacing:10;    
       }
-
-      h2 {
+     
+   h2 
+   {
     color: #7f1293;
     font-size: 20px;
-}
+   }
 
   nav a{
     text-decoration: none;
@@ -83,12 +60,38 @@ h1:hover{
 }
 
   nav a:hover{
-    color: rgb(42, 244, 11);
+    color: rgba(11, 38, 244, 0.681);
+    text-decoration: none;
 }
   
 video{
   width: 500px;
   align-items: center;
 }
-
-    </style>
+#intro{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-left:1cm;
+  padding-right:2cm;
+  margin-right: 2cm;
+  margin-left: 0cm;
+}
+#footer{
+  background-color: rgba(27, 114, 85, 0.653);
+  align-content: flex-end;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+}
+#last{
+  text-align: center;
+}
+#text{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(38, 206, 206);
+}
+#fb-comments{
+  text-align: center;
+  align-items: center;
+  padding-left:3cm;
+  padding-right:3cm;
+}
