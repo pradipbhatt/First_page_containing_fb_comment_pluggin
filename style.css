@@ -55,13 +55,13 @@ h1:hover{
     padding: 10px;
     text-align: right;
     float:right;
-    color: tomato;
+    color: rgb(233, 241, 0);
     background-color: rgba(0, 0, 0, 0.426);
     overflow: hidden;
 }
 
   nav a:hover{
-    color: rgba(11, 38, 244, 0.681);
+    color: rgba(244, 11, 11, 0.88);
     text-decoration: none;
 }
   
@@ -78,7 +78,7 @@ video{
 }
 #footer{
   background-color: rgba(27, 114, 85, 0.653);
-  align-content: flex-end;
+  padding: auto;
   text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: large;
