@@ -8,13 +8,19 @@ nav a{
 }
 nav a{
     color: tomato;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
+    padding:1cm;
     overflow: hidden;
 }
 
 nav a:hover{
     color: blue;
 }
+.body{
+  background-color: #9dcbe6a0;
+  align-items: center;
+}
+
 p {
     padding: 1px;
     text-shadow: rgb(255, 12, 12);
@@ -22,9 +28,6 @@ p {
     text-size-adjust: 2px;
     word-spacing: 10;
 }
-
-<style>
-  /* yaha nirw h1 ko sabai kura milayeyeko xw css ko help ley */
   h1 {
     font-size: 23px;
     font-family: cursive;
@@ -47,22 +50,11 @@ p {
 h1:hover{
     color: rgba(11, 244, 30, 0.748);
 
-</style>
-
-<style>
-  p{
-        padding: 9px;
-        text-shadow: rgb(255, 12, 12);
-        text-align: left;
-        text-size-adjust: 2px;
-        word-spacing:10;
-      }
+}
       h2 {
     color: #7f1293;
     font-size: 25px;
 }
-
-<style>
   p{
         padding: 9px;
         text-shadow: rgb(255, 12, 12);
